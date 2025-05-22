@@ -5,7 +5,7 @@ Developer
 ---------
 
 * 🌍  I'm based in Pakistan
-* 🖥️  See my portfolio at [inkedin](http://umet developer)
+* 🖥️  See my portfolio at [inkedin](http://umerdeveloper)
 * ✉️  You can contact me at [umerakhlaq786@gmail.com](mailto:umerakhlaq786@gmail.com)
 * 🚀  I'm currently working on [github](http://github.com/umerakhlaq)
 * 🧠  I'm learning I’m currently learning web development, including HTML, CSS, and JavaScript.
